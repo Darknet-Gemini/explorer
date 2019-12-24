@@ -1,2 +1,2 @@
 # explorer
-bvw explorer
+BVW Explorer
